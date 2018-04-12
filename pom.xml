@@ -24,7 +24,7 @@
   </parent>
 
   <groupId>io.openshift.booster</groupId>
-  <artifactId>testspace12</artifactId>
+  <artifactId>testspac</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
